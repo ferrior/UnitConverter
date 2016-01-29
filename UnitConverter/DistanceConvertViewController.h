@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  DistanceConvertViewController.h
 //  UnitConverter
 //
 //  Created by bliu on 1/27/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UITabBarController
-
+@interface DistanceConvertViewController : UIViewController
 
 @end
-
